@@ -1,5 +1,9 @@
 # HaiDianJiaXiao
 
+### ATTENTION
+
+This code is intended for study and research purposes only. If used for other purposes, any legal liability arising therefrom is not the responsibility of the author. (Download and use implies that you agree with the above).
+
 ### Setup user information
 
 First, setup your phone number and password which are used to login the app of HaiJia.
